@@ -1,3 +1,5 @@
 new file on branch1
 
 this is new text on branch1
+
+this is new text from branch2
