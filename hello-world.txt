@@ -1,2 +1,3 @@
 Hello World!
-this is new texts that i will commit.
+
+i will delete the second line.
